@@ -1,0 +1,2 @@
+Prefix plugins/TAB5Shard/example/
+Plugin TAB5Shard inputfile output.tab5 outputfile .
